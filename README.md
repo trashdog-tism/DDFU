@@ -5,15 +5,19 @@ Hit the button, get a modifier, run the dungeon with it.
 ## Modifiers
 - Double Primary
 - No Exotics
+- Abilities only
+- No Abilities
 - Only use weapons you have no kills on
 - Triple Shotgun
+- Triple Bow
+- Triple Sniper
 - Muzz picks your Exotic Weapon
 - Ty picks your subclass
 - RanDIM Loadout
 - Copy Ty's Loadout
 - Use the build randomiser
 
-Untick any modifier to pull it from the pool (remembered per device). It never rolls the same one twice in a row.
+It never rolls the same one twice in a row.
 
 ## Hosting on GitHub Pages
 1. Create a new repo and upload everything in this folder (keep the `icons` folder).
